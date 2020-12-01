@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "demo": "eslint ."
+    "lint": "eslint ."
   },
   "dependencies": {},
   "devDependencies": {
